@@ -1,0 +1,7 @@
+Saved_Models/
+HAR_data/
+*.csv
+*.png
+*.pdf
+wandb/
+# .git/
