@@ -4,4 +4,5 @@ HAR_data/
 *.png
 *.pdf
 wandb/
+Datasets/
 # .git/
